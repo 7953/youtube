@@ -1,0 +1,22 @@
+.container{
+    height: 70px;
+    width: 100%;
+    background-color: blue;
+    margin-top: -25px;
+    float: left;
+
+}
+.bar{
+    padding: 2%;
+    height: 60px;
+}
+.yt{
+    height: 100px;
+    width: 100px;
+
+}
+.search{
+    padding-left: 180px;
+    margin-left: 50px;
+    
+}
